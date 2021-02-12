@@ -1,0 +1,109 @@
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\kobylkaos\source\repos\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\kobylkaos\source\repos\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\kobylkaos\source\repos\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\kobylkaos\source\repos\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\osebxp\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\osebxp\Desktop\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\osebxp\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\osebxp\Desktop\lab6\lab6\obj\Debug\lab6.pdb
+C:\Users\kobylkaos\Desktop\lab6\lab6\bin\Debug\lab6.exe.config
+C:\Users\kobylkaos\Desktop\lab6\lab6\bin\Debug\lab6.exe
+C:\Users\kobylkaos\Desktop\lab6\lab6\bin\Debug\lab6.pdb
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.exe
+C:\Users\kobylkaos\Desktop\lab6\lab6\obj\Debug\lab6.pdb
+D:\Projects\LABS\CG2\lab6\lab6\bin\Debug\lab6.exe.config
+D:\Projects\LABS\CG2\lab6\lab6\bin\Debug\lab6.exe
+D:\Projects\LABS\CG2\lab6\lab6\bin\Debug\lab6.pdb
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.Form1.resources
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.exe
+D:\Projects\LABS\CG2\lab6\lab6\obj\Debug\lab6.pdb
+D:\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.exe.config
+D:\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.exe
+D:\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.pdb
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.Form1.resources
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.exe
+D:\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.pdb
+C:\Users\MEL\Desktop\Filters\lab6\bin\Debug\lab6.exe.config
+C:\Users\MEL\Desktop\Filters\lab6\bin\Debug\lab6.exe
+C:\Users\MEL\Desktop\Filters\lab6\bin\Debug\lab6.pdb
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.exe
+C:\Users\MEL\Desktop\Filters\lab6\obj\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.Form1.resources
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Projects\ALLLABS\LABS\Filters\lab6\bin\Debug\lab6.exe.config
+D:\Projects\ALLLABS\LABS\Filters\lab6\bin\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\Filters\lab6\bin\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\Filters\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Filters\lab6\bin\Debug\lab6.exe.config
+C:\Users\Admin\Desktop\Filters\lab6\bin\Debug\lab6.exe
+C:\Users\Admin\Desktop\Filters\lab6\bin\Debug\lab6.pdb
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.exe
+C:\Users\Admin\Desktop\Filters\lab6\obj\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.exe.config
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\bin\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.Form1.resources
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\CG2\Filters\lab6\obj\Debug\lab6.pdb
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\bin\Debug\lab6.exe.config
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\bin\Debug\lab6.exe
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\bin\Debug\lab6.pdb
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.Form1.resources
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.Properties.Resources.resources
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.exe
+C:\Users\Admin\Desktop\Лабы КГ\PackLabs\lab6\obj\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\bin\Debug\lab6.exe.config
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\bin\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\bin\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.Form1.resources
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.Properties.Resources.resources
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.exe
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.pdb
+D:\Projects\ALLLABS\LABS\CG2\PackLabs\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
